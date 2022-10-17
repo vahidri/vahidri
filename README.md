@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Vahid
-- 👀 I’m interested in .
-- 🌱 I’m currently learning ..
-- 💞️ I’m looking to collaborate ...
+- 👋 Hi, I’m Vahid.
+- 👀 I’m interested in research.
+- 🌱 I’m currently learning ML.
+- 💞️ I’m looking to collaborate on AI projects.
 - 📫 reach me via [email](hello@vahidri.slmail.me)
 
 <!---
