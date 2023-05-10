@@ -1,5 +1,10 @@
 ### Hi there 👋
+📫 reach me via [email](mailto:hello@vahidri.slmail.me)
 
+<!---
+vahidri/vahidri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 <!--
 **vahidri/vahidri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
